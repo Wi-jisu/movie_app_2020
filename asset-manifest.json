@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wi-jisu/movie_app_2020.git/static/css/main.c9b3552b.css",
+    "main.js": "/Wi-jisu/movie_app_2020.git/static/js/main.a7877826.js",
+    "index.html": "/Wi-jisu/movie_app_2020.git/index.html",
+    "main.c9b3552b.css.map": "/Wi-jisu/movie_app_2020.git/static/css/main.c9b3552b.css.map",
+    "main.a7877826.js.map": "/Wi-jisu/movie_app_2020.git/static/js/main.a7877826.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b3552b.css",
+    "static/js/main.a7877826.js"
+  ]
+}
